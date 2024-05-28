@@ -1,0 +1,42 @@
+@media screen and (min-width: 700px) {
+    header {
+        background-image: url("../assets/images/background-pattern-desktop.svg");
+    }
+    
+    main {
+        margin-top: -14vh;
+        max-width: 30rem;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    main {
+        max-width: 32rem;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    header {
+        background-image: url("../assets/images/background-pattern-desktop.svg");
+        height: 18rem;
+    }
+
+    main {
+        margin-top: -17vh;
+        max-width: 37rem;
+        padding: 2.5rem;
+    }
+
+    img#star {
+        width: 2rem;
+    }
+
+    main h1 {
+        font-size: 3em;
+    }
+
+    section {
+        padding-top: 2rem;
+    }
+
+}
