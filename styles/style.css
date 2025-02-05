@@ -112,3 +112,11 @@ footer a {
 footer p {
     padding-bottom: .5rem;
 }
+
+.focusable {
+    outline: none;
+}
+
+.focusable:focus h2{
+    color: var(--grayish-purple);
+}

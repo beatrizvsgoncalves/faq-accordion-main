@@ -59,6 +59,7 @@ Já tinha visto nos meus estudos a encolher e expandir algo, mas foi bom ver com
 
 Foi muito bom fazer este desafio, pois percebi que devo voltar aos estudos antes de me aventurar novamente em desafios de JavaScript. Claro, experiência nunca é demais, mas devo focar no que mais importa agora no meu progresso.
 Quanto aos desafios vou continuar fazendo os de HTML e CSS. E quando estiver mais conhecimento em JS irei voltar.
+05/02/2025 - Fiz a navegação por meio do teclado que faltou e separei por módulos.
 
 ## Autora
 
